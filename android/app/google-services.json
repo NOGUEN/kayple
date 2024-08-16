@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414106767374",
+    "project_id": "kayple-52852",
+    "storage_bucket": "kayple-52852.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414106767374:android:223355ad0e09c4f46f6c5f",
+        "android_client_info": {
+          "package_name": "com.e"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8gRU7zvCYD2norFzXEbSZhmHwQi7HRX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
